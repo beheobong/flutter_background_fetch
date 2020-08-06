@@ -16,6 +16,4 @@ flutter:
       android:
         package: com.transistorsoft.flutter.backgroundfetch
         pluginClass: BackgroundFetchPlugin
-      ios:
-        pluginClass: BackgroundFetchPlugin
 
